@@ -5,7 +5,7 @@ var tweets = {
             "created_at": "Thu Aug 31 23:56:14 +0000 2017",
             "id": 903406105686155269,
             "id_str": "903406105686155269",
-            "text": "RT @MattBellassai: honestly sick of taylor and kanye making their feud about themselves when it's really about Beyoncé having the greatest…",
+            "text": "RT @MattBellassai: honestly sick of making their feud about themselves ",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -191,7 +191,7 @@ var tweets = {
             "created_at": "Thu Aug 31 23:56:11 +0000 2017",
             "id": 903406091521990657,
             "id_str": "903406091521990657",
-            "text": "@DebEvers @FoxNews This is completely a lie. Beyonce did donate but it was no 7 million dollars #fakenews",
+            "text": "@DebEvers @FoxNews This is completely a lie. ",
             "truncated": false,
             "entities": {
                 "hashtags": [
@@ -300,7 +300,7 @@ var tweets = {
             "created_at": "Thu Aug 31 23:56:10 +0000 2017",
             "id": 903406089408057344,
             "id_str": "903406089408057344",
-            "text": "RT @Pleigher: Let's see...\n1. Beyoncé wasn't there\n2. Game of Thrones Season Finale \n3. Y'all had Ed Sheeran on stage with Lil Uzi https://…",
+            "text": "RT @Pleigher: Let's see...\n1.He wasn't there\n2. Game of Thrones Season Finale \n3. Y'all had Ed Sheeran on stage with Lil Uzi https://…",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -385,7 +385,7 @@ var tweets = {
                 "created_at": "Wed Aug 30 20:51:33 +0000 2017",
                 "id": 902997241446715392,
                 "id_str": "902997241446715392",
-                "text": "Let's see...\n1. Beyoncé wasn't there\n2. Game of Thrones Season Finale \n3. Y'all had Ed Sheeran on stage with Lil Uzi https://t.co/CnjRA9bTF0",
+                "text": "Let's see...\n1. He wasn't there\n2. Game of Thrones Season Finale \n3. Y'all had Ed Sheeran on stage with Lil Uzi https://t.co/CnjRA9bTF0",
                 "truncated": false,
                 "entities": {
                     "hashtags": [],
@@ -671,7 +671,7 @@ var tweets = {
             "created_at": "Thu Aug 31 23:56:09 +0000 2017",
             "id": 903406083439452160,
             "id_str": "903406083439452160",
-            "text": "@funder @Beyonce It will only take a month, everything he has is on paper.",
+            "text": "@funder He It will only take a month, everything he has is on paper.",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -772,7 +772,7 @@ var tweets = {
             "created_at": "Thu Aug 31 23:56:08 +0000 2017",
             "id": 903406081304612864,
             "id_str": "903406081304612864",
-            "text": "RT @funder: .@Beyonce reportedly gave 7 times as much &amp; didn't send a press release out about it. Showboat Donny tries to brag about it...…",
+            "text": "RT @funder: .He reportedly gave 7 times as much &amp; didn't send a press release out about it. Showboat Donny tries to brag about it...…",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -1177,7 +1177,7 @@ var tweets = {
             "created_at": "Thu Aug 31 23:56:08 +0000 2017",
             "id": 903406080818114560,
             "id_str": "903406080818114560",
-            "text": "RT @babyf00l: 13. BITCH BEYONCE??? BEYONCE SWEETIE IM SO SORRY UGLY ASS BITCH WOULD EVEN SAY THAT https://t.co/uX3Pk7D0N7",
+            "text": "RT @babyf00l: IM SO SORRY WOULD EVEN SAY THAT https://t.co/uX3Pk7D0N7",
             "truncated": false,
             "entities": {
                 "hashtags": [],

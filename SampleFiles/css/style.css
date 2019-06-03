@@ -56,3 +56,9 @@ h1 {
 .tweet-pink:hover {
     background: #FFC8FB;
 }
+.twitterClass{
+  color: green;
+}
+.UserClass{
+  color: red;
+}
