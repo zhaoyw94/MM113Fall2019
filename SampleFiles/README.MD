@@ -29,7 +29,7 @@ Open Atom, then go to `File > Add Project Folder` and find the homework director
 Update the ***modifyText*** function so that it:
 * Changes the text of message2 to be the message of the StarTrekTweet object
 * Changes the text of link2 to be the name from the StarTrekTweet object
-* Changes the text of user2 to be the handle from the StarTrekTweet object
+* Changes the text of message 2 class to be the handle from the StarTrekTweet object
 
 
 
