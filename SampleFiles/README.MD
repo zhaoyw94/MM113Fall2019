@@ -1,6 +1,6 @@
-# Homework 3: Intro to the DOM
+# Homework 4: Github, Atom and the DOM
 > * Due date: ...
-> * To submit: See instructions in Part III
+> * To submit: See assignment explanation
 
 
 ## PART I: SETUP & REVIEW
