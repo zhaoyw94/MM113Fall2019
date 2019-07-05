@@ -1,9 +1,9 @@
 console.log(tweets)
 const tweet1 = () => {
     console.log(tweets.statuses[0])
-    document.querySelector('#tweet3 .message').innerHTML = tweets.statuses[0].text
-    document.querySelector('#tweet3 .username').innerHTML = tweets.statuses[0].user.screen_name
-    document.querySelector('#tweet3 .date').innerHTML = tweets.statuses[0].created_at
+    document.querySelector('#tweet3.message').innerHTML = tweets.statuses[0].text
+    document.querySelector('#tweet3.username').innerHTML = tweets.statuses[0].user.screen_name
+    document.querySelector('#tweet3.date').innerHTML = tweets.statuses[0].created_at
 }
 
 const tweet2 = () => {
