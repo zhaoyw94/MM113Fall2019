@@ -21,6 +21,7 @@ $ open index.html #will open index.html in your default browser
 ### 2. Open the homework directory in Brackets
 
 Make sure the Git extension is installed:
+![Image description](images/Screen Shot 2019-07-06 at 3.28.21 PM.png)
 
 
 Open Atom, then go to `File > Add Project Folder` and find the homework directory. Click the homework directory and then click `Open` in the bottom right.
