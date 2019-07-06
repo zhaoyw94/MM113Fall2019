@@ -22,6 +22,10 @@ $ open index.html #will open index.html in your default browser
 
 Make sure the Git extension is installed in Brackets:
 ![alt text](https://github.com/ireichert/MM113Fall2019/blob/master/SampleFiles/images/Screen%20Shot%202019-07-06%20at%203.28.21%20PM.png)
+To install an extension, click this icon on the right:
+![alt text](https://github.com/ireichert/MM113Fall2019/blob/master/SampleFiles/images/Screen%20Shot%202019-07-06%20at%203.28.39%20PM.png)
+After you install the Github extension, you will find that your interface has new additional tools:
+![alt text](https://github.com/ireichert/MM113Fall2019/blob/master/SampleFiles/images/Screen%20Shot%202019-07-06%20at%203.56.36%20PM.png)
 
 
 Open Atom, then go to `File > Add Project Folder` and find the homework directory. Click the homework directory and then click `Open` in the bottom right.
