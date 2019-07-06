@@ -20,7 +20,7 @@ $ open index.html #will open index.html in your default browser
 
 ### 2. Open the homework directory in Brackets
 
-Make sure the Git extension is installed:
+Make sure the Git extension is installed in Brackets:
 ![alt text](https://github.com/ireichert/MM113Fall2019/blob/master/SampleFiles/images/Screen%20Shot%202019-07-06%20at%203.28.21%20PM.png)
 
 
