@@ -30,7 +30,8 @@ After you install the Github extension, you will find that your interface has ne
 ![alt text](https://github.com/ireichert/MM113Fall2019/blob/master/SampleFiles/images/Screen%20Shot%202019-07-06%20at%203.56.36%20PM.png)
 
 
-Open Atom, then go to `File > Add Project Folder` and find the homework directory. Click the homework directory and then click `Open` in the bottom right.
+Open Brackets, go to `File > Open Folder` and find the homework directory with your cloned repo:
+![alt text](https://github.com/ireichert/MM113Fall2019/blob/master/SampleFiles/images/Screen%20Shot%202019-07-06%20at%203.56.10%20PM.png)
 
 ### 3. If you would like, review information on DOM selectors at the following URLS:
 
