@@ -1,4 +1,4 @@
-# Homework 4: Github, Atom and the DOM
+# Homework 4: Github, Brackets and the DOM
 > * Due date: ...
 > * To submit: See assignment explanation
 
@@ -18,7 +18,11 @@ $ ls #list the files
 $ open index.html #will open index.html in your default browser
 ```
 
-### 2. Open the homework directory in Atom
+### 2. Open the homework directory in Brackets
+
+Make sure the Git extension is installed:
+
+
 Open Atom, then go to `File > Add Project Folder` and find the homework directory. Click the homework directory and then click `Open` in the bottom right.
 
 ### 3. If you would like, review information on DOM selectors at the following URLS:
