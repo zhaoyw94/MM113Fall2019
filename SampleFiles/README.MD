@@ -6,10 +6,14 @@
 ## PART I: SETUP & REVIEW
 
 ### 1. Clone the homework from GitHub
-Open the Terminal:
+
+Fork the following file on github in your account: ireichert/MM113Fall2019.git
+
+Then, open the Terminal:
 ```
-$ git clone https://github.com/ireichert/MM113Fall2019.git
+
 $ cd #put the path to your local foler here
+$ git clone YourCloningURL
 $ ls #list the files
 $ open index.html #will open index.html in your default browser
 ```
