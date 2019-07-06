@@ -6,7 +6,7 @@ const StarTrekTweet = {
 
 const links = ['https://twitter.com/StarTrek', 'https://twitter.com/StarTrek', 'https://hips.hearstapps.com/digitalspyuk.cdnds.net/18/26/1530003551-star-trek.jpg']
 
-const modifyText = () => {
+function modifyText(){
   //Change the text of message2 to be the message of the StarTrekTweet object
   //Change the text of user2 to be the handle from the StarTrekTweet object
   //Changes the text of message 2 class to be the handle from the StarTrekTweet object
@@ -45,6 +45,8 @@ const appendElements = () => {
   NewLink.href = "http://www.ohlone.edu"
   NewLink.appendChild(document.createTextNode("intro to JavaScript"))
   document.getElementById('tweet1').appendChild(NewLink)
+    //const g = document.createElement('div');
+    //g.setAttribute("id", "comment");
 
   // YOUR CODE BELOW THIS LINE
 
