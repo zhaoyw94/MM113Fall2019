@@ -34,7 +34,7 @@ Open Brackets, go to `File > Open Folder` and find the homework directory with y
 ![alt text](https://github.com/ireichert/MM113Fall2019/blob/master/SampleFiles/images/Screen%20Shot%202019-07-06%20at%203.56.10%20PM.png)
 
 Other useful extensions:
-HTML starter template
+New Html5 Document
 Emmet
 
 ### 3. If you would like, review information on DOM selectors at the following URLS:
