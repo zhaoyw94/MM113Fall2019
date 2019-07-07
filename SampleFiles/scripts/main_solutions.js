@@ -10,8 +10,8 @@ function modifyText(){
   //Change the text of message2 to be the message of the StarTrekTweet object
   //Change the text of user2 to be the handle from the StarTrekTweet object
   //Changes the text of message 2 class to be the handle from the StarTrekTweet object
-  document.querySelector('#message2').innerHTML = StarTrekTweet.name
-  document.getElementById('user2').innerHTML = StarTrekTweet.handle
+  document.querySelector('#user2').innerHTML = StarTrekTweet.name
+  document.getElementById('link2').innerHTML = StarTrekTweet.handle
   document.getElementById('message2').innerHTML = StarTrekTweet.text
   //console.log('modifying text')
   // YOUR CODE BELOW THIS LINE.
@@ -45,9 +45,9 @@ const appendElements = () => {
   NewLink.href = "http://www.ohlone.edu"
   NewLink.appendChild(document.createTextNode("intro to JavaScript"))
   document.getElementById('tweet1').appendChild(NewLink)
-    //const g = document.createElement('div');
-    //g.setAttribute("id", "comment");
 
-  // YOUR CODE BELOW THIS LINE
+  const img = document.createElement('img')
+  img.src = "https://metvcdn.metv.com/LMbyw-1481735992-41-show-940x370-App-StarTrek.jpg"
+  document.getElementById('tweet1').appendChild(img);
 
 }
