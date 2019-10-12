@@ -82,12 +82,12 @@ To try a slightly more complicated example, open using_data.html and the tweet-d
 ## PART III: SUBMIT
 You may submit the homework in one of two ways:
 
-### 1. Using GitHub (extra credit):
+### 1. Using GitHub:
 * Commit your updated files to your local repo
 * Push your local commit to a remote repository that you create
 * Paste a link to Canvas
 
 \- OR -
 
-### 2. Through Moodle
+### 2. Through Canvas:
 Zip all of your files and upload to Canvas
