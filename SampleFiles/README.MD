@@ -1,5 +1,5 @@
 # Homework 4: Github, Brackets and the DOM
-> * Due date: ...
+> * Due date: November 3rd, 11:59pm
 > * To submit: See assignment explanation
 
 
